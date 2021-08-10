@@ -1,8 +1,9 @@
-# AttendanceManagementSystem
-This is Attendance Management System using Django.
+# AttendanceManagementSystem <hr>
+
 
 
 <h3>Attendance Management System</h3>
+This is Attendance Management System using Django.
 
 User panel:
 
